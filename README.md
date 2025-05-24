@@ -1,0 +1,91 @@
+# 🚀 SmartChurn: Customer Churn Prediction with XGBoost
+
+SmartChurn is a machine learning project designed to predict customer churn in the telecom sector using the XGBoost algorithm. This project demonstrates a full end-to-end pipeline — from data preprocessing to model explainability using SHAP — and extracts actionable business insights from the model.
+
+---
+
+## 📂 Dataset
+
+- **Source:** [Telco Customer Churn Dataset (Kaggle)](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)  
+- **Size:** 7,043 customer records  
+- **Features:** Contract type, monthly charges, internet services, technical support, and more.
+
+---
+
+## ⚙️ Installation
+
+```bash
+git clone https://github.com/vansh-09/SmartChurn.git
+cd SmartChurn
+pip install -r requirements.txt
+jupyter notebook
+```
+
+---
+
+## 📈 Features Covered
+
+- 📊 Exploratory Data Analysis (EDA)  
+- 🧼 Data Cleaning & Feature Engineering  
+- 🤖 Model training with XGBoost  
+- ✅ Model evaluation using classification metrics  
+- 🔍 Model interpretability using SHAP  
+- 📉 Business insights generation  
+
+---
+
+## 🧪 Results
+
+| Metric      | Value |
+|-------------|-------|
+| Accuracy    | ~84%  |
+| Precision   | XX%   |
+| Recall      | XX%   |
+| F1-Score    | XX%   |
+
+> Replace XX% with your actual model scores.
+
+---
+
+## 💡 Business Insights
+
+- 📅 **Contract Type Matters**: Month-to-month customers are at highest risk of churn.  
+- 🧾 **High Monthly Charges** correlate with churn unless bundled with extra services.  
+- ❌ **Lack of Tech Support & Security Services** leads to higher churn.  
+- 📄 **Paperless Billing Users** churn more — likely younger digital customers.  
+- 📊 **Tenure Matters**: Customers with < 6 months tenure are most at risk.  
+
+---
+
+## 🗂️ Project Structure
+
+```
+SmartChurn/
+├── data/                    # Telco dataset (telco.csv)
+├── SmartChurn.ipynb         # Jupyter notebook
+├── requirements.txt         # Python dependencies
+├── Analysis_Report.md       # Business insights and documentation
+├── .gitignore               # Ignored files
+└── README.md                # You're reading it!
+```
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Please fork the repo, make changes, and open a pull request.
+
+---
+
+## 📄 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+---
+
+## 👋 Let's Connect
+
+I'm open to collaboration, feedback, or internship opportunities!
+
+- 📫 [LinkedIn](https://www.linkedin.com/in/your-link-here)  
+- 📧 your.email@example.com
