@@ -39,11 +39,9 @@ jupyter notebook
 | Metric      | Value |
 |-------------|-------|
 | Accuracy    | ~84%  |
-| Precision   | XX%   |
-| Recall      | XX%   |
-| F1-Score    | XX%   |
-
-> Replace XX% with your actual model scores.
+| Precision   | 83%   |
+| Recall      | 87%   |
+| F1-Score    | 85%   |
 
 ---
 
@@ -71,6 +69,15 @@ SmartChurn/
 
 ---
 
+## 🛠️ Tech Stack
+- Python
+- Pandas, NumPy, Matplotlib, Seaborn
+- XGBoost
+- SHAP
+- Scikit-learn
+
+---
+
 ## 🤝 Contributing
 
 Contributions are welcome! Please fork the repo, make changes, and open a pull request.
@@ -87,5 +94,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 I'm open to collaboration, feedback, or internship opportunities!
 
-- 📫 [LinkedIn](https://www.linkedin.com/in/your-link-here)  
-- 📧 your.email@example.com
+- 📫 [LinkedIn](https://www.linkedin.com/in/vansh-codes/)  
+- 📧 vanshkjain09@gmail.com
