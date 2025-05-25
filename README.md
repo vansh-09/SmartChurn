@@ -6,7 +6,7 @@ SmartChurn is a machine learning project designed to predict customer churn in t
 
 ## 🚀 Live Demo
 
-🔗 [Click here to try SmartChurn in your browser](https://your-app-name.streamlit.app)  
+🔗 [Click here to try SmartChurn in your browser](https://smartchurn-telco.streamlit.app/)  
 
 ---
 
