@@ -5,3 +5,5 @@ seaborn==0.12.2
 scikit-learn==1.2.2
 xgboost==1.7.5
 shap==0.41.0
+streamlit==1.34.0
+
