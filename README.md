@@ -4,6 +4,12 @@ SmartChurn is a machine learning project designed to predict customer churn in t
 
 ---
 
+## 🚀 Live Demo
+
+🔗 [Click here to try SmartChurn in your browser](https://your-app-name.streamlit.app)  
+
+---
+
 ## 📂 Dataset
 
 - **Source:** [Telco Customer Churn Dataset (Kaggle)](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)  
@@ -64,6 +70,7 @@ SmartChurn/
 ├── requirements.txt         # Python dependencies
 ├── Analysis_Report.md       # Business insights and documentation
 ├── .gitignore               # Ignored files
+├── smartchurn_model.pkl     # Pickle file
 └── README.md                # You're reading it!
 ```
 
