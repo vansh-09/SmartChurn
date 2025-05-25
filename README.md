@@ -72,6 +72,7 @@ jupyter notebook
 ```
 SmartChurn/
 ├── data/                    # Telco dataset (telco.csv)
+├── images/                  # GIF files
 ├── SmartChurn.ipynb         # Jupyter notebook
 ├── requirements.txt         # Python dependencies
 ├── Analysis_Report.md       # Business insights and documentation
@@ -88,6 +89,8 @@ SmartChurn/
 - XGBoost
 - SHAP
 - Scikit-learn
+- Streamlit
+- Pickle
 
 ---
 
